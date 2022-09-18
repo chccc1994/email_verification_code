@@ -105,7 +105,7 @@ func SendCode(){
 	// 返回 EOF 时，关闭SSL重试
 	// password开启STMP的授权码
 	err := e.SendWithTLS("smtp.163.com:465",
-		smtp.PlainAuth("", "发送邮件邮箱账户", "发送邮件邮箱账户STMP授权码", "smtp.163.com"),
+		smtp.PlainAuth("", "发送邮件邮箱账户", "发送邮件邮箱账户SMTP授权码", "smtp.163.com"),
 		&tls.Config{InsecureSkipVerify: true, ServerName: "smtp.163.com"})
 	if err != nil {
 		t.Fatal(err)

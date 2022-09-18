@@ -18,7 +18,7 @@ var (
 	DbName        string
 	DbDefaultPage string
 	DbDefaultSize string
-	// STMP邮箱授权码
+	// SMTP邮箱授权码
 	EmailPassword string
 )
 
@@ -49,5 +49,5 @@ func LoadDb(file *ini.File){
 }
 
 func LoadEmailStmp(file *ini.File){
-	EmailPassword = file.Section("email").Key("EmailPassword").MustString("") // STMP授权码
+	EmailPassword = file.Section("email").Key("EmailPassword").MustString("") // SMTP授权码
 }
