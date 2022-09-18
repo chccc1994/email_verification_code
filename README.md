@@ -1,6 +1,6 @@
 # 模拟验证码功能
 
-[![build workflow](https://github.com/go-redis/redis/actions/workflows/build.yml/badge.svg)](https://github.com/go-redis/redis/actions/workflows/build.yml/badge.svg) [![PkgGoDev](https://camo.githubusercontent.com/4917695de7771a4295a6fdfd7105b904cf1ebb9b3056b277736a49f036ad8d3b/68747470733a2f2f706b672e676f2e6465762f62616467652f6769746875622e636f6d2f676f2d72656469732f72656469732f7638)](https://pkg.go.dev/github.com/go-redis/redis/v8?tab=doc) [![Documentation](https://camo.githubusercontent.com/7692019ac4eff10a035bdfa643ca2e90eb68f34120ac94264a0b5bf4f05edddf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d646f63756d656e746174696f6e2d696e666f726d6174696f6e616c)](https://redis.uptrace.dev/)https://godoc.org/github.com/jordan-wright/email)
+[![build workflow](https://github.com/go-redis/redis/actions/workflows/build.yml/badge.svg)](https://github.com/go-redis/redis/actions/workflows/build.yml/badge.svg) [![PkgGoDev](https://camo.githubusercontent.com/4917695de7771a4295a6fdfd7105b904cf1ebb9b3056b277736a49f036ad8d3b/68747470733a2f2f706b672e676f2e6465762f62616467652f6769746875622e636f6d2f676f2d72656469732f72656469732f7638)](https://pkg.go.dev/github.com/go-redis/redis/v8?tab=doc) [![Documentation](https://camo.githubusercontent.com/7692019ac4eff10a035bdfa643ca2e90eb68f34120ac94264a0b5bf4f05edddf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d646f63756d656e746174696f6e2d696e666f726d6174696f6e616c)](https://redis.uptrace.dev/)
 
 ## 前提
 
